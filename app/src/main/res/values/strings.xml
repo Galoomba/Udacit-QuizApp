@@ -1,0 +1,48 @@
+<resources xmlns:xliff="http://schemas.android.com/tools">
+    <string name="app_name">Quiz App</string>
+    <string name="startup_quote">Are you ready to start the quiz?!</string>
+    <string name="startup_buttom">START</string>
+    <string name="submit_buttom">Submit</string>
+
+    <string name="first_Question_title">First Question</string>
+    <string name="second_Question_title">Second Question</string>
+    <string name="third_Question_title">Third Question</string>
+    <string name="fourth_Question_title">Fourth Question</string>
+    <string name="fifth_Question_title">fifth Question</string>
+    <string name="sixth_Question_title">sixth Question</string>
+
+    <string name="first_Question">5+7=...</string>
+    <string name="Second_Question">11+2*5=...</string>
+    <string name="third_Question">Pick the different word...</string>
+    <string name="Fourth_Question">Do you love me?...</string>
+    <string name="fifth_Question">Choose the common sports...</string>
+    <string name="sixth_Question">Do you really loves me!!...</string>
+
+    <string name="third_question_radio1">Apple</string>
+    <string name="third_question_radio2">Pineapple</string>
+    <string name="third_question_radio3">Pen</string>
+
+    <string name="fourth_question_radio1">Yes</string>
+    <string name="fourth_question_radio2">No</string>
+    <string name="fourth_question_radio3">Crying baby</string>
+
+    <string name="fifth_question_CB1">Football</string>
+    <string name="fifth_question_CB2">Basketball</string>
+    <string name="fifth_question_CB3">swimming</string>
+
+    <string name="sixth_question_CB1">Yes</string>
+    <string name="sixth_question_CB2">NO</string>
+    <string name="sixth_question_CB3">Two Crying Babies</string>
+
+    <string name="fillchoice">Please select an answer</string>
+
+
+    <string name="messageBoxTitle">Quiz App</string>
+    <string name="score"> <xliff:g id="s" example="score">Current score is %d out of 6</xliff:g> </string>
+    <string name="finishMessage"> <xliff:g id="s" example="score">The Quiz had finished Cya soon :D/nYour score = %d out of 6 Questions</xliff:g> </string>
+
+
+
+
+
+</resources>
